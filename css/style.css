@@ -1,0 +1,54 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 4em;
+    font-weight: bold;
+}
+
+.yellow {
+    color: #ffd700;
+}
+
+.blue {
+    color: #1d3549;
+}
+
+.btn-bg-color {
+    background-color: yellowgreen;
+    border:none;
+    border-radius: 1em;
+}
+
+
+h3 {
+    font-size: 3em;
+    font-weight: bold;
+}
+
+
+h5 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.bg-color {
+    background-color:	#F0F0F0;
+}
+
+.main-card {
+    border: none;
+    border-radius: 1em;
+}
+.card-style {
+    background-color:	#F8F8F8; 
+    border-radius: 2em; 
+    margin: 1em;
+}
+
+.small-card {
+    border-radius: 2em;
+    background-color: #F8F8F8;
+    padding: 1em;
+}
